@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenWeatherMap.iml" filepath="$PROJECT_DIR$/OpenWeatherMap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/app.iml" filepath="$PROJECT_DIR$/sample/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openweathermaphelper/openweathermaphelper.iml" filepath="$PROJECT_DIR$/openweathermaphelper/openweathermaphelper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenWeatherMap-Android-Library.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenWeatherMap-Android-Library.iml" group="OpenWeatherMap-Android-Library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openweathermaphelper/openweathermaphelper.iml" filepath="$PROJECT_DIR$/.idea/modules/openweathermaphelper/openweathermaphelper.iml" group="OpenWeatherMap-Android-Library/openweathermaphelper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/sample.iml" group="OpenWeatherMap-Android-Library/sample" />
     </modules>
   </component>
 </project>
